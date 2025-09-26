@@ -87,8 +87,7 @@ Entregar um **assistente interno** simples e **confiável**, que respeita o cont
 ## 📜 Certificado
 
 <p align="center">
-  <!-- Espaço reservado: inserir imagem -->
-  <img src="docs/certificado_alura.png" alt="Certificado Alura - Imersão Dev Agentes de IA" width="600px">
+  <img src="Agentes-IA-alura.jpg" alt="Certificado Alura - Imersão Dev Agentes de IA" width="600px">
 </p>
 
 ---
